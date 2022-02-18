@@ -1,0 +1,10 @@
+main {
+    text-align: center;
+
+}
+.calculate {
+    background-color: rgb(233, 232, 232);
+}
+#failed, #failed-two, #failed-three, #failed-four, #failed-five {
+    display: none;
+}
